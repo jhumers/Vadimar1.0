@@ -1,6 +1,6 @@
 <?php
 
-    const BASE_URL = "http://localhost/OldVersionVadimar/vadimar-0000/vadimar";
+    const BASE_URL = "http://localhost/vadimar/vadimar";
 	/*const BASE_URL = "http://192.168.10.37/vadimar/vadimar";*/
 
     //Zona horaria
